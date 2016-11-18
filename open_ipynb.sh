@@ -1,2 +1,2 @@
 #!/bin/bash
-$HOME/anaconda3/bin/jupyter-notebook $1
+$HOME/anaconda3/bin/jupyter-notebook "$1"
