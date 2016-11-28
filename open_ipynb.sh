@@ -1,2 +1,3 @@
 #!/bin/bash
-$HOME/anaconda3/bin/jupyter-notebook "$1"
+$HOME/anaconda3/bin/jupyter-notebook --browser "chromium-browser" "$1"
+
